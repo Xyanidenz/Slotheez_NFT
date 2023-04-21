@@ -1,0 +1,17 @@
+
+
+// contracts/Mytoken.sol
+// SPDX-License-Identifier: MIT
+pragma solidity ^0.8.0;
+ 
+import "@openzeppelin/contracts/token/ERC20/ERC20.sol";
+ 
+contract name is ERC20 {
+    constructor(uint256 initialSupply) ERC20("Twigs", "Twg") {
+        _mint(msg.sender, initialSupply);
+    }
+}
+
+
+
+0xC274b1cAa654344e7bDC201320076a53DB33Ec75 live network
