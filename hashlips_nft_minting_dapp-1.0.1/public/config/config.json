@@ -1,18 +1,21 @@
 {
-  "CONTRACT_ADDRESS": "0xE47653613fd665983046957044C026b7c9353FA7",
-  "SCAN_LINK": "https://polygonscan.com/token/0xe47653613fd665983046957044c026b7c9353fa7",
+  "CONTRACT_ADDRESS": "0x73923db257E77B8b4BEe2155d61b2ed4682646D2",
+  "SCAN_LINK": "https://polygonscan.com/address/0x73923db257E77B8b4BEe2155d61b2ed4682646D2",
   "NETWORK": {
     "NAME": "Polygon",
     "SYMBOL": "Matic",
     "ID": 137
   },
-  "NFT_NAME": "Slotheez_NFT",
-  "SYMBOL": "SlothNZ",
-  "MAX_SUPPLY": 1000,
-  "WEI_COST": 7000000000000000000,
-  "DISPLAY_COST": 7,
+  "NFT_NAME": "SlotheezSlotholution",
+  "SYMBOL": "SZNZS",
+  "MAX_SUPPLY": 2500,
+  "WEI_COST": 10000000000000000000,
+  "DISPLAY_COST": 10,
   "GAS_LIMIT": 6000000,
   "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://opensea.io/collection/slotheez-nft",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/slotheezslotholution",
   "SHOW_BACKGROUND": true
 }
+
+
+
